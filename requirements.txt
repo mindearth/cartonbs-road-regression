@@ -19,3 +19,5 @@ tqdm
 xarray_leaflet
 papermill
 pandas-geojson
+pandarallel
+me-gee
